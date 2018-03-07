@@ -1,0 +1,29 @@
+{
+  "name": "yelp-business-search-lambda",
+  "version": "1.0.0",
+  "description": "An Amazon Lambda function to do a yelp business search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexxgathp/yelp-business-search-lambda.git"
+  },
+  "keywords": [
+    "yelp",
+    "lambda",
+    "location",
+    "business",
+    "search"
+  ],
+  "author": "Alex X. Galloway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexxgathp/yelp-business-search-lambda/issues"
+  },
+  "homepage": "https://github.com/alexxgathp/yelp-business-search-lambda#readme",
+  "dependencies": {
+    "yelp-fusion": "^2.0.3"
+  }
+}
