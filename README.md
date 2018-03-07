@@ -8,6 +8,7 @@ I'm not affiliated with Yelp or Amazon in any way. This is just one preliminary 
 
 ### Credits
 Author: Alex X. G.
+
 Inspiration: These guys do something similar https://github.com/heremaps/here-aws-sar
 
 License
